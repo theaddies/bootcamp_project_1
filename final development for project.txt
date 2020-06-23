@@ -24,6 +24,7 @@ Presentation Material (Hannah will assemble the presentation in Google Slides)
     -  heatmap of zipcode versus population (possibly could be latitude & longitude)(Hannah)
     -  horizontal bar chart of parks versus number of visitors (perhaps top 10 visited parks?) (Jet)
     -  Scatter plot of population within radius versus visitor count (Nakouma)
+    -  surface area for each park
 
     Conclusions
     -  relationship of population density to park visitors
