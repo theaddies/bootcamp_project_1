@@ -2,7 +2,9 @@ Project to link national park hiking trail data with US census data
 
 
 Analyzing National Park Suitability
-Data pulled out from US National Park Service and US Census Bureau website were analyzed to locate trails within parks and calculate population within that radius.
+
+Summary
+Data were pulled out from US National Park Service and US Census Bureau website to analyze the location of trails within parks and calculate population within that radius. The study aims to show the population density around the park and the suitability of the park to recreational actvities based on the weather and the infrastructure. Data analystics tools such as python, Matplotlib, Pandas along with statistical tools were used to analyse the data from the entire United States. Results show poor relation between Trail number and park size, visitor number and population density.  
 
 
 Assumptions
